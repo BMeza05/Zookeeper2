@@ -1,0 +1,12 @@
+package com.brian.zookeeper2;
+
+public class BatTest extends Bat {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Bat yungboa = new Bat();
+		
+		yungboa.displayEnergy(300);
+	}
+
+}
